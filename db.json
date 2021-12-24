@@ -1,0 +1,14 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "body": "Todays Agenda\n- Create the Django backend",
+      "updated": "2021-12-21T01:30:19.318Z"
+    },
+    {
+      "id": 3,
+      "body": "This is the title\nAnd you can edit the content right here.",
+      "updated": "2021-12-19T05:53:47.273Z"
+    }
+  ]
+}
